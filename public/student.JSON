@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "abeer",
+        "age": 25,
+        "home": "dhaka",
+        "pic": "https://sc01.alicdn.com/kf/HTB1g7yjIVXXXXbpaXXXq6xXFXXXd/200386627/HTB1g7yjIVXXXXbpaXXXq6xXFXXXd.jpg_.webp",
+        "father": "Rafiqul alam",
+        "mother": "Kamrun nahar",
+        "fine": 1000
+    },
+    {
+        "id": 2,
+        "name": "Kabir",
+        "age": 22,
+        "home": "Ctg",
+        "pic": "https://images.unsplash.com/photo-1618886271785-29b0f48a5a8d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fG1lbiUyMHN1aXR8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+        "father": "alam khan",
+        "mother": "nahar khatun",
+        "fine": 1065
+    },
+    {
+        "id": 3,
+        "name": "Sabitr",
+        "age": 27,
+        "home": "Rajshaji",
+        "pic": "https://3.imimg.com/data3/YF/CX/MY-15565569/slim-fit-formal-dress--500x500.jpg",
+        "father": "Abdul",
+        "mother": "Lotigfa",
+        "fine": 900
+    },
+    {
+        "id": 4,
+        "name": "Sajid",
+        "age": 26,
+        "home": "Nowakhali",
+        "pic": "https://cdn.shopify.com/s/files/1/0162/2116/files/Formal_outfit_ideas_for_men_20.jpg?v=1512106528",
+        "father": "Kobir bhai",
+        "mother": "Bilkis ara",
+        "fine": 2000
+    },
+    {
+        "id": 5,
+        "name": "Kona",
+        "age": 24,
+        "home": "PolshNagar",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0-gnxscCCznN6rasJ1LbgQ_xQPCxMwgS6Ew&usqp=CAU",
+        "father": "Kuddus bhai",
+        "mother": "Laky apa",
+        "fine": 3000
+    },
+    {
+        "id": 6,
+        "name": "Raka",
+        "age": 15,
+        "home": "Mirpur",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy79uTwA1ieU1T8SgvrVQHHWy5lD-_Aw-Rpg&usqp=CAU",
+        "father": "das das ",
+        "mother": "janena",
+        "fine": 100
+    }
+]
