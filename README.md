@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Project For FakiBaj Poalpain TO take Fine
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Link: https://practical-varahamihira-21043a.netlify.app/
+
+What I do in this Project.
+=> Create a cart to display Student data
+=> Add a button to take fine amount 
+=> Show no of student and total amount of fine
+
 
 ## Available Scripts
 
