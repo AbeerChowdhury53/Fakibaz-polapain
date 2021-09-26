@@ -3,9 +3,9 @@
 Project Link: https://practical-varahamihira-21043a.netlify.app/
 
 What I do in this Project.
-# Create a cart to display Student data
-# Add a button to take fine amount 
-# Show no of student and total amount of fine
+# =>Create a cart to display Student data
+# =>Add a button to take fine amount 
+# =>Show no of student and total amount of fine
 
 
 ## Available Scripts
